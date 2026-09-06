@@ -136,3 +136,5 @@ out*/*
 
 # Hidden files in ARM64 config dir
 !arch/arm64/configs/.*
+KernelSU/
+drivers/kernelsu
